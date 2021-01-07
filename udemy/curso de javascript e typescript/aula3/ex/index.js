@@ -1,0 +1,2 @@
+console.log('Meu nome é "Alexandre". Estou aprendendo JavaScript às 15 da tarde.') //o número tem o valor string
+console.log('Meu nome é "Alexandre". Estou aprendendo JavaScript às', 15, 'da tarde.') //correção

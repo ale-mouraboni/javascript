@@ -22,7 +22,9 @@ $ git clone https://github.com/ale-mouraboni/javascript.git
 <h2 id="about">:heavy_check_mark: About</h2>
 <p>Repositório que uso para armazenar códigos, testes individuais e estudos referente a JavaScript.
 </br>
-Os códigos estão todos organizados por diretórios. Cada arquivo .js é referênte a pasta no qual ele se encontra. ex: (aula8 > index.js).
+Os códigos estão todos organizados por diretórios.
+</br>
+Cada arquivo .js é referênte a pasta no qual ele se encontra. ex: (aula8 > index.js).
 </p>
 
 <h2 id="license">:memo: License</h2>

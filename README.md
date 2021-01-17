@@ -24,7 +24,7 @@ $ git clone https://github.com/ale-mouraboni/javascript.git
 </br>
 Os códigos estão todos organizados por diretórios.
 </br>
-Cada arquivo .js é referênte a pasta no qual ele se encontra. ex: (aula8 > index.js).
+Cada arquivo .js é referente a pasta no qual ele se encontra. ex: (aula8 > index.js).
 </p>
 
 <h2 id="license">:memo: License</h2>

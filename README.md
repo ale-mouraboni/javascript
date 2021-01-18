@@ -1,4 +1,4 @@
-<h1 align="center">Repositório de Estudo JavaScript</h1>
+<h1 align="center">Estudo - JavaScript</h1>
 
 <p align="center">
   <a href="#technology">Tecnologias</a> | 

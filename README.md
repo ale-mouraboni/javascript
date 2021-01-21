@@ -1,4 +1,4 @@
-<h1 align="center">Repositório de Estudo JavaScript</h1>
+<h1 align="center">Estudo - JavaScript</h1>
 
 <p align="center">
   <a href="#technology">Tecnologias</a> | 
@@ -23,7 +23,9 @@ $ git clone https://github.com/ale-mouraboni/javascript.git
 <h2 id="about">:heavy_check_mark: About</h2>
 <p>Repositório que uso para armazenar códigos, testes individuais e estudos referente a JavaScript.
 </br>
-Os códigos estão todos organizados por diretórios. Cada arquivo .js é referênte a pasta no qual ele se encontra. ex: (aula8 > index.js).
+Os códigos estão todos organizados por diretórios.
+</br>
+Cada arquivo .js é referente a pasta no qual ele se encontra. ex: (aula8 > index.js).
 </p>
 <h3 id="curse">Link dos Cursos:</h3>
 <h4>Curso em Vídeo:</h4>

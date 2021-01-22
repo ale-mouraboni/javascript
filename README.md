@@ -28,7 +28,7 @@ Os códigos estão todos organizados por diretórios.
 Cada arquivo .js é referente a pasta no qual ele se encontra. ex: (aula8 > index.js).
 </p>
 <h3 id="curse">Link dos Cursos:</h3>
-<h4>Curso em Vídeo: <small>(Curso em andamento...)</small></h4>
+<h4>Curso em Vídeo:</h4>
 <a href="https://www.cursoemvideo.com/course/javascript/" target="_blank"><img src="readme/clique-aqui-cev.png"></a>
 <h4>JavaScript e TypeScript do básico ao avançado:</h4>
 <a href="https://www.udemy.com/course/curso-de-javascript-moderno-do-basico-ao-avancado/" target="_blank"><img src="readme/clique-aqui.png"></a>

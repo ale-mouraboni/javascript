@@ -32,7 +32,6 @@ Cada arquivo .js é referente a pasta no qual ele se encontra. ex: (aula8 > inde
 <a href="https://www.cursoemvideo.com/course/javascript/" target="_blank"><img src="readme/clique-aqui-cev.png"></a>
 <h4>JavaScript e TypeScript do básico ao avançado:</h4>
 <a href="https://www.udemy.com/course/curso-de-javascript-moderno-do-basico-ao-avancado/" target="_blank"><img src="readme/clique-aqui.png"></a>
-
 <h2 id="license">:memo: License</h2>
 <p>This project is under the MIT license. See the [LICENSE] for more information.
 </p>

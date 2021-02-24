@@ -1,37 +1,41 @@
-<h1 align="center">Estudo - JavaScript</h1>
+<h1 align="center">Estudos JavaScript</h1>
 
 <p align="center">
-  <a href="#technology">Tecnologias</a> | 
-  <a href="#c-utilizar">Como Utilizar</a> |
-  <a href="#about">About</a> |
-  <a href="#curse">Cursos</a> |
-  <a href="#license">License</a> 
+  <a href="#globe_with_meridians-Tecnologias">Tecnologias</a>
+  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#wrench-Como-Utilizar">Como Utilizar</a>
+  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#heavy_check_mark-About">About</a>
+  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-License">License</a> 
 </p>
 
-<h2 id="technology">:globe_with_meridians: Tecnologias</h2>
-<ul>
-  <li>JavaScript</li>
-</ul>
+## :globe_with_meridians: Tecnologias
+* JavaScript
 
-<h2 id="c-utilizar">:wrench: Como Utilizar</h2>
+## :wrench: Como Utilizar
 
 ```
 #1 - Clone o repositório
 $ git clone https://github.com/ale-mouraboni/javascript.git
 ```
 
-<h2 id="about">:heavy_check_mark: About</h2>
-<p>Repositório que uso para armazenar códigos, testes individuais e estudos referente a JavaScript.
+## :heavy_check_mark: About
+<p>
+Repositório que uso para armazenar, estudos, códigos, testes individuais, desafios e exercícios referente a JavaScript.
 </br>
-Os códigos estão todos organizados por diretórios.
+Os códigos e estudos estão organizados por diretórios. Cada arquivo .js é referente a pasta no qual ele se encontra.
 </br>
-Cada arquivo .js é referente a pasta no qual ele se encontra. ex: (aula8 > index.js).
+ex: (aula8 > index.js).
 </p>
-<h3 id="curse">Link dos Cursos:</h3>
-<h4>Curso em Vídeo:</h4>
-<a href="https://www.cursoemvideo.com/course/javascript/" target="_blank"><img src="readme/clique-aqui-cev.png"></a>
-<h4>JavaScript e TypeScript do básico ao avançado:</h4>
-<a href="https://www.udemy.com/course/curso-de-javascript-moderno-do-basico-ao-avancado/" target="_blank"><img src="readme/clique-aqui.png"></a>
-<h2 id="license">:memo: License</h2>
-<p>This project is under the MIT license. See the [LICENSE] for more information.
-</p>
+
+### Link dos Cursos:
+
+#### Curso em Vídeo
+[JavaScript e ECMAScript](https://www.cursoemvideo.com/course/javascript/)
+
+#### Udemy
+[JavaScript e TypeScript do básico ao avançado](https://www.udemy.com/course/curso-de-javascript-moderno-do-basico-ao-avancado/)
+
+## :memo: License
+This project is under the MIT license. See the [LICENSE] for more information.

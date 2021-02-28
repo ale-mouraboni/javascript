@@ -38,4 +38,6 @@ ex: (aula8 > index.js).
 [JavaScript e TypeScript do básico ao avançado](https://www.udemy.com/course/curso-de-javascript-moderno-do-basico-ao-avancado/)
 
 ## :memo: License
-This project is under the MIT license. See the [LICENSE] for more information.
+<p>
+  This project is under the MIT license. See the [LICENSE] for more information.
+</p>

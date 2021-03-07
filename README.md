@@ -24,7 +24,7 @@ $ git clone https://github.com/ale-mouraboni/javascript.git
 <p>
 Repositório que uso para armazenar, estudos, códigos, testes individuais, desafios e exercícios referente a JavaScript.
 </br>
-Os códigos e estudos estão organizados por diretórios. Cada arquivo .js é referente a pasta no qual ele se encontra.
+Os códigos e estudos estão organizados por diretórios. Cada arquivo .js é referente ao diretório no qual ele se encontra.
 </br>
 ex: (aula8 > index.js).
 </p>
